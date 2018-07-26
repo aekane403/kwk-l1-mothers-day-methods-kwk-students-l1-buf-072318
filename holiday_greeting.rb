@@ -3,4 +3,4 @@ def holiday_greeting (sendee="your favorite child",sender= "Mom",holiday = "Moth
 end
 
 puts holiday_greeting
-
+puts holiday_greeting("tony","Patricia")
